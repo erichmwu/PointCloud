@@ -6,6 +6,7 @@
 #
 # An octree data structure used to find an appropriate splat size for any given data set.
 #
+#####################################################################################################################
 
 import sys
 import numpy as np
